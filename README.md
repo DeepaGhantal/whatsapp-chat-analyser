@@ -13,19 +13,11 @@ WhatsApp Chat Analyzer is a web application built using Streamlit that allows us
 
 # How to Use
 1.Upload WhatsApp Chat File: Export your WhatsApp chat in .txt format and upload it to the app.
+
 2.Select User for Analysis: Choose whether to analyze the overall chat or a specific user.
+
 3.View Statistics: The app will display various metrics and visualizations based on the chat data.
 
-# Installation
-1.Clone the repository:
-git clone https://github.com/your-username/whatsapp-chat-analyzer.git
-cd whatsapp-chat-analyzer
-
-2.Install the required dependencies:
-pip install -r requirements.txt
-
-3.Run the app:
-streamlit run app.py
 
 # Requirements
 Python 3.x
